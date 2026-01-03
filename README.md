@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Garvita Dalmia</h1>
 <h3 align="center">Frontend Developer • Programming Enthusiast • Tech Learner</h3>
 
----
-
 ## 💫 About Me
 🎨 Frontend developer passionate about building clean & responsive user interfaces  
 💻 Skilled in **HTML, CSS, JavaScript, React & Next.js**  
@@ -10,13 +8,9 @@
 🌱 Currently improving problem-solving and full-stack development skills  
 ⚡ I enjoy turning ideas into real, interactive web experiences  
 
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garvita-dalmia)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dalmiagarvita18@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -36,8 +30,6 @@
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 ![Garvita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvita-d&show_icons=true&theme=dark)
@@ -45,12 +37,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=garvita-d&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvita-d&layout=compact&theme=dark)
-
----
-
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?theme=radical)
-
----
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=garvita-d&icon=0&color=0)
