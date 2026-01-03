@@ -26,10 +26,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garvita-d&show_icons=true&theme=dark)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=garvita-d&theme=dark)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=garvita-d&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=garvita-d&style=flat&color=grey)
