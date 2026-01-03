@@ -27,6 +27,9 @@
 ## 📊 GitHub Stats
 
 ![Garvita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvita-d&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=garvita-d&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvita-d&layout=compact&theme=dark&langs_count=6&cache_seconds=1800)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=garvita-d&style=flat&color=grey)
