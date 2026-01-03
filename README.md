@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Garvita Dalmia</h1>
-<h3 align="center">Frontend Developer • Programming Enthusiast • Tech Learner</h3>
+<h2 align="center">Hi 👋, I'm Garvita Dalmia</h1>
+<h4 align="center">Frontend Developer • Programming Enthusiast • Tech Learner</h3>
 
 ## 💫 About Me
 🎨 Frontend developer passionate about building clean & responsive user interfaces  
@@ -26,10 +26,10 @@
 
 ## 📊 GitHub Stats
 
-![Garvita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garvita-d&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garvita-d&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garvita-d&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garvita-d&layout=compact&theme=dark&langs_count=6&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=garvita-d&layout=compact&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=garvita-d&style=flat&color=grey)
