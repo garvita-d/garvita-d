@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 🎨 Frontend developer passionate about building clean & responsive user interfaces  
-💻 Skilled in **HTML, CSS, JavaScript, React & Next.js**  
+💻 Skilled in **HTML, CSS, JavaScript, React, Typescript & Next.js**  
 🧠 Strong foundation in **C, Python & Java**  
 🌱 Currently improving problem-solving and full-stack development skills  
 ⚡ I enjoy turning ideas into real, interactive web experiences  
